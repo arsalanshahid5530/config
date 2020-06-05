@@ -5,7 +5,7 @@ greeting: Hello World
 spring:
   cloud:
     config:
-      name: configserver
+      name: config-server
       enabled: true
       uri: http://localhost:8888
       discovery:
