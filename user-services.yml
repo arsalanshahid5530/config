@@ -1,6 +1,6 @@
 server:
   port: 9090
-greeting: Arsalan Shahid
+greeting: Arsalan 
 
 # spring:
 #   cloud:
