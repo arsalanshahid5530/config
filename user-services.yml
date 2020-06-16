@@ -1,6 +1,6 @@
 server:
   port: 9090
-greeting: Hello World New
+greeting: Arsalan Shahid
 
 # spring:
 #   cloud:
